@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Automation Tests(Java, Selenide, Selenium, RestAssured, Report Portal)
+- 🌱 I’m currently learning Devops (Kubernetes, Terraform, AWS, GCP, Docker, Bash)
+- 📫 How to reach me: 
+Linkedin - https://www.linkedin.com/in/andrii-liutak-201317221/
 <!--
 **andriy66/andriy66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
